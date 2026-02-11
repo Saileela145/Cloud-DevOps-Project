@@ -84,22 +84,19 @@ The system follows a **layered architecture**:
 
 ---
 
-
----
-
 ## 10. How to Run the Project
 1. Install Docker Desktop
 2. Navigate to the monitoring folder:
 
-"cd monitoring"
+```cd monitoring```
 
 3. Start the services:
 
-"docker compose up -d"
+```docker compose up -d```
 
 4. Open Grafana in browser:
 
-"http://localhost:3000"
+```http://localhost:3000```
 
 5. Login with:
 - Username: `admin`
